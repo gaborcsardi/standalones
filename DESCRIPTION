@@ -1,0 +1,15 @@
+Package: standalones
+Title: Dependency Free Files
+Version: 1.0.0
+Author: Gábor Csárdi
+Maintainer: Gábor Csárdi <csardi.gabor@gmail.com>
+Description: Single files that you can copy into your package or
+    project without incurring a dependency on a package.
+License: MIT + file LICENSE
+LazyData: true
+URL: https://github.com/gaborcsardi/standalones#readme
+BugReports: https://github.com/gaborcsardi/standalones/issues
+RoxygenNote: 7.0.1
+Suggests: 
+    testthat
+Encoding: UTF-8
